@@ -1,0 +1,10 @@
+.text-div h2{
+    font-size: xx-large;
+    color: #7E1717;
+}
+
+.text-div div button{
+    background-color: #E55807;
+    cursor: pointer;
+}
+
